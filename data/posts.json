@@ -1,0 +1,5 @@
+[
+  { "title": "k6 es increíble", "body": "Este es un post sobre k6", "userId": 1 },
+  { "title": "Pruebas de Carga", "body": "Probando el rendimiento", "userId": 2 },
+  { "title": "API de JSONPlaceholder", "body": "Es una gran API de prueba", "userId": 3 }
+]

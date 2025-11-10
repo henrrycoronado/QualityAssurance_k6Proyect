@@ -1,0 +1,6 @@
+## Ejecución de los scripts
+Para ejecutar correctamente un script, se debe encontrar en el directorio del proyecto y ejecutar:
+```
+    k6 run tests/nombre_del_test.js
+```
+> Nota: Debe tener instalada Grafana - k6
